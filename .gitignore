@@ -1,0 +1,6 @@
+*.code-workspace
+index-old.html
+example.html
+testpage.html
+js/animejs/*
+js/index-anime.js

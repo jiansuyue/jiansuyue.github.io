@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/base.css">
+    <script src="js/jquery-1.10.2.js"></script>
+    <title>Base</title>
+</head>
+<body>
+    <!-- SIDENAV START -->
+    <div id="navbar"></div>
+    <script>
+        $.get("navindex.html", function(data){
+            $("#navbar").replaceWith(data);
+        });
+    </script>
+    <!-- SIDENAV END -->
+  
+    <div class="content">
+        <div class="pageTitle-wrapper">
+            <h1 class="pageTitle-main">Page Title</h1>
+            <h2 class="pageTitle-sub">Subtitle</h2>
+        </div>
+    </div>
+
+
+</body>
+</html>

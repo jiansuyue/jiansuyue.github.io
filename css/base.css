@@ -1,0 +1,187 @@
+:root{
+    --reposition: 200px;
+    --shadow-colour: #18191A;
+    --background-colour: #292a2d;
+    --sidenav-colour: #252627;
+    --text-colour: #f1f1f1;
+    --title-font: RobotoCondensed;
+    background-color: var(--background-colour);
+}
+
+@font-face {
+    font-family: "RobotoCondensed";
+    src: url(../fonts/RobotoCondensed-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "RobotoCondensed";
+    src: url(../fonts/RobotoCondensed-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto-Light.ttf);
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+}
+
+
+
+/* NAV BAR CSS THINGY UHHHHHHHHHH*/
+ul.sidenav {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: var(--reposition);
+    background-color: var(--sidenav-colour);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    box-shadow: 3px 0px 5px var(--shadow-colour);
+}
+
+ul.sidenav li a.navbtn {
+    display: block;
+    color: var(--text-colour);
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: lighter;
+}
+
+ul.sidenav li a.navbtn:hover {
+    background-color: #555;
+    color: #fff;
+    text-decoration: underline;
+}
+
+ul.sidenav li p.navheader{
+    position: absolute;
+    color: var(--text-colour);
+    font-family: RobotoCondensed, sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    text-align: center;
+    bottom: 0;
+    border: solid var(--text-colour);
+    border-width: .1rem 0 0 0;
+    padding: 16px 0;
+    margin: 0 16px;
+    text-decoration: none;
+}
+
+ul.sidenav li p.navheader a{
+    text-decoration: none;
+    color: var(--text-colour);
+    /* color: blue; */
+}
+
+ul.sidenav li p.navheader a:hover{
+    text-decoration: underline;
+    /* color: blue; */
+}
+
+div.content {
+    margin-left: var(--reposition);
+    /* padding: 1px 50px; */
+    padding: 0 50px;
+    /* height: 1000px; */
+    background-color:#292a2d;
+}
+
+/*MEDIA RESPONSIVE CSS*/
+@media screen and (max-width: 900px) {
+    ul.sidenav {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    ul.sidenav li a.navbtn {
+        float: left;
+        padding: 8px 16px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    div.content {margin-left: 0;}
+
+    ul.sidenav li p.navheader{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    ul.sidenav li a {
+        text-align: center;
+        float: none;
+    }
+}
+/*MEDIA RESPONSIVE END*/
+/*NAV BAR CSS END*/
+
+
+
+div.pageTitle-wrapper {
+    border: solid var(--text-colour);
+    border-width: 0px 0px .1rem 0px;
+    width: 100%;
+    padding: 21.44px 0;
+}
+
+h1.pageTitle-main {
+    font-family: var(--title-font);
+    /* font-size: 2.364687335785602vw; */
+    font-size: 45px;
+    margin: 0;
+    color: var(--text-colour);
+}
+
+h2.pageTitle-sub{
+    font-family: var(--title-font);
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 0;
+    color: var(--text-colour);
+}
+
+p.textblock{
+    font-family: Roboto;
+    color: black;
+}
+
+img.avatar{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2.5px solid black;
+}
+
+@media screen and (max-width: 525px) {
+    h1.pageTitle-main {
+        font-size: 35px;
+    }
+}

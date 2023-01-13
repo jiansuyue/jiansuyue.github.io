@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/animejs/lib/anime.min.js"></script>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+    <!-- SIDENAV START -->
+    <div id="navbar"></div>
+    <script>
+        $.get("navindex.html", function(data){
+            $("#navbar").replaceWith(data);
+        });
+    </script>
+    <!-- SIDENAV END -->
+    
+    <div class="content nopadding">
+        <div class="content-section section__one">
+            <div class="mainPageTitle-wrapper">
+                <h1 class="mainPageTitle-main">Jian - sanamorii</h1>
+                <h2 class="mainPageTitle-sub">Computer Science Student @ UoN</h2>
+            </div>
+            <img class="img-down" src="svg/caret-down.svg" alt="" srcset="">
+        </div>
+    
+<!--         <div class="content-section section__two">
+            <div class="pageHeader-wrapper blackborder">
+                <h1 class="pageHeader-main blackfont" id="#nav1">
+                    suffering
+                </h1>
+            </div>
+            <p class="textblock">
+                Orpheus with his lute made trees<br>
+                And the mountain tops that freeze<br>
+                Bow themselves when he did sing:<br>
+                To his music plants and flowers<br>
+                Ever sprung; as sun and showers<br>
+                There had made a lasting spring.<br>
+                  
+                Every thing that heard him play,<br>
+                Even the billows of the sea,<br>
+                Hung their heads and then lay by.<br>   
+                In sweet music is such art,<br>
+                Killing care and grief of heart<br>   
+                Fall asleep, or hearing, die.
+            </p> 
+
+            
+        </div>
+    
+    </div> -->
+
+<!-- 
+
+    
+    </div> -->
+
+</body>
+</html>
