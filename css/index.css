@@ -1,89 +1,78 @@
-.nopadding{
-    padding: 0 !important;
+:root{
+    --yes: #fff;
 }
 
-.content-section{
-    position: relative;
+@font-face {
+    font-family: "RobotoCondensed";
+    src: url(../fonts/RobotoCondensed-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    background-color: fff;
+}
+
+div.content{
+
+}
+
+div.section{
     display: flex;
-    flex-direction: column;
 }
 
-.section__one{
-    padding: 0 50px;
-    background-color:#292a2d;
-    align-items: center;
+div.s1{
     justify-content: center;
+    align-items: center;
+
     height: 100vh;
 }
 
-.section__two{
-    padding: 0 50px;
-    background-color: #f1f1f1;
+div.s1-banner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 75%;
+    height: 50%;
+    padding: 15px;
+
+    background-color: lightgrey;
+}
+
+div.s1-title{
+    margin: 0;
+}
+
+div.s1-fumo {
+    padding: 0 15px 0 20px;
+    background-color: #bebebe;
+    margin: 0;
+}
+
+div.s2{
+    justify-content: center;
+    align-items: center;
+
     height: 100vh;
+    background-color: #bebebe;
 }
 
-.mainPageTitle-wrapper{
-    border: solid var(--text-colour);
-    border-width: .1rem 0px;
-    width: 100%;
-    /* margin: 21.44px 0; */
-    padding: 21.44px 0;
-    
-}
-
-.mainPageTitle-main {
-    font-family: var(--title-font);
-    /* font-size: 2.364687335785602vw; */
-    font-size: 150px;
+h1{
+    font-weight: normal;
+    font-size: 64px;
     margin: 0;
-    color: var(--text-colour);
-  }
-  
-.mainPageTitle-sub{
-    font-family: var(--title-font);
-    font-size: 20px;
-    font-weight: lighter;
-    margin: 0;
-    color: var(--text-colour);
+
 }
 
-.img-down{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    filter: invert(100%) sepia(7%) saturate(50%) hue-rotate(309deg) brightness(115%) contrast(89%);
-    bottom: 0;
-}
-
-div.pageHeader-wrapper {
-    width: 100%;
-    margin: 0 0 21.44px 0;
-    padding: 21.44px 0;
-}
-
-h1.pageHeader-main {
-    font-family: var(--title-font);
-    /* font-size: 2.364687335785602vw; */
-    font-size: 45px;
+h2{
+    font-weight: normal;
+    font-size: 18px;
     margin: 0;
 }
 
-/* h2.pageHeader-sub{
-    font-family: var(--title-font);
-    font-size: 20px;
-    font-weight: lighter;
-    margin: 0;
-} */
-
-.blackfont{
-    color: black;
-}
-
-.blackborder{
-    border: solid black;
-    border-width: 0px 0px .1rem 0px;
-}
-
-.whitefont{
-    color: var(--text-colour)
+p.codeblock{
+    font-family: yes;
 }
