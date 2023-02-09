@@ -26,14 +26,14 @@ div.s1{
     justify-content: center;
     align-items: center;
 
-    width: 100vw;
     height: 100vh;
 }
 
-div.s1-front{
+div.s1-banner{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 
     width: 75%;
     height: 50%;
@@ -42,10 +42,22 @@ div.s1-front{
     background-color: lightgrey;
 }
 
+div.s1-title{
+    margin: 0;
+}
+
+div.s1-fumo {
+    padding: 0 15px 0 20px;
+    background-color: #bebebe;
+    margin: 0;
+}
+
 div.s2{
-    width: 100vw;
+    justify-content: center;
+    align-items: center;
+
     height: 100vh;
-    background-color: black;
+    background-color: #bebebe;
 }
 
 h1{
