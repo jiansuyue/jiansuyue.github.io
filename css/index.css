@@ -2,7 +2,12 @@
     --yes: #fff;
 }
 
-@font-family
+@font-face {
+    font-family: "RobotoCondensed";
+    src: url(../fonts/RobotoCondensed-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
 
 body {
     margin: 0;
@@ -22,13 +27,31 @@ body {
 }
 
 div.content{
-    width: 500px;
-    height: 500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 75%;
+    height: 50%;
     padding: 15px;
 
     background-color: lightgrey;
 }
 
-h1.index-title{
+h1{
+    font-weight: normal;
+    font-size: 64px;
+    margin: 0;
 
+}
+
+h2{
+    font-weight: normal;
+    font-size: 18px;
+    margin: 0;
+}
+
+p.codeblock{
+    font-family: yes;
 }
