@@ -15,6 +15,7 @@ div.front{
 }
 
 div.front-wrapper{
+    position: relative;
     opacity: 0;
     animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
@@ -40,36 +41,6 @@ div.front-banner-title{
     margin: 0 15px 0 15px;
 }
 
-div.front-navbar{
-    display: flex;
-    justify-content: space-evenly;
-
-    background-color: var(--color-bg);
-
-    width: 900px;
-    height: 35px;
-    padding: 15px;
-    border-top: solid #000;
-}
-
-
-span.front-navbar-btn__wrapper{
-    height: 35px;
-    padding: 0 5px 0 5px;
-}
-
-a.front-navbar-btn__link{
-    font-size: 18px;
-    text-decoration: none;
-    color: var(--color-text);
-    letter-spacing: 2.5px;
-    line-height: 35px;
-}
-
-a.front-navbar-btn__link:hover{
-    color: #d2738a;
-    transition: 0.3s;
-}
 
 .front-banner_text{
     margin: 0;
@@ -78,31 +49,17 @@ a.front-navbar-btn__link:hover{
 }
 /* END */
 
-div.main{
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-
-    width: 100%;
-}
-
-div.ft{
-    height: 10vh;
-
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-
-    background-color: var(--color-fg);
-}
-
 
 div.ft-socials{
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     margin: 0;
+
 }
 
 div.ft-socials-links{
@@ -113,10 +70,10 @@ a.ft-socials-links__link{
     font-size: 12px;
     text-decoration: none;
     color: #000;
-    margin: 0 2px 0 2px
+    margin: 0 5px;
 }
 a.ft-socials-links__link:hover{
-    color: var(--color-text);
+    color: darkslategrey;
 }
 
 h1{
@@ -132,12 +89,8 @@ h2{
     font-size: 18px;
     line-height: 18px;
     letter-spacing: 4.2px;
-}
-h3{
-    font-weight: normal;
-    font-size: 42px;
-    letter-spacing: 10px;
-    margin: 0;
+    text-align: center;
+    margin: 40px 0;
 }
 
 .fumo{
