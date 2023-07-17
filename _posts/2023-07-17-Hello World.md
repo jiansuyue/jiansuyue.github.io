@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2023-07-14 00:00 +0000
+date: 2023-07-17 00:00 +0000
 permalink: /journal/hello-world/
 layout: post
 ---
