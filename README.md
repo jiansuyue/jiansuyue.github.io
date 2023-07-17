@@ -1,9 +1,5 @@
-# sanamorii.github.io - jiansu.dev
-Portfolio Website  
----
-as you can tell i am very bad at website design
+# [jiansu.dev](https://jiansu.dev)
+My portfolio website made w/ Jekyll and [Sakura]()
 
-# TODO
-- migrate to jekyll
-- change design to one page
-- add media responsive
+The source code for the website is under the MIT license and is free to use. The content I make and post onto it (artworks, blog posts, resume, etc.) are copyrighted. 
+ 
