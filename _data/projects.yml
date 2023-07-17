@@ -11,7 +11,7 @@
   writeup: null
 
 - name: Filerize
-  link: /
+  link: https://github.com/TeamLeen/Filerize
   summary: "An intelligent file sorter powered by artificial intelligence. Made within 24 hours at HackNotts 23' with a team of four and won second runner up."
   tags: ["Python", "HTML", "CSS", "Javascript", "GPT3" ]
   writeup: https://devpost.com/software/filerize

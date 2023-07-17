@@ -9,7 +9,7 @@ Hello! Welcome to my little space on the internet.
 
 This website has been through the works for some time now. Originally it was built from the ground up; no static website generators, CSS frameworks, web frameworks, etc. It worked fine serving as a basic portfolio site/developer site, however I wanted to be able to have blogging capabilities which would've been tedious to do with just HTML and CSS.  
 
-The current website has been completely redesigned; built using [Jekyll]() and a modified version of [Sakura](). 
+The current website has been completely redesigned; built using [Jekyll](https://jekyllrb.com/) and a modified version of [Sakura](https://github.com/oxalorg/sakura). 
 
 I went with a more minimalist look this time, instead of the stylized, monogatari series themed approach I had last time. My reason being that it would be easier to maintain and would also to make the site more accessible to anyone with visual impairments or anything similar. The older website had used serif fonts and some effects which, although looks cool in my opinion, doesn't help with readability. The old design wasn't media responsive which also provoked the redesign.
 
