@@ -1,0 +1,12 @@
+- name: home
+  link: /
+- name: projects
+  link: /projects/
+- name: artwork
+  link: /gallery
+- name: journal
+  link: /journal
+# - name: recipes
+#   link: https://jiansu.dev/recipebook
+# - name: business
+#   link: /business

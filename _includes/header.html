@@ -1,0 +1,9 @@
+<div class="header bar">
+    <h4 class="logo">sanamorii</h4>
+    <span class="links">
+        {% for item in site.data.navigation %}
+        <a href="{{ item.link }}">{{ item.name }}</a>
+        {% endfor %}
+    </span>
+    <hr>
+</div>

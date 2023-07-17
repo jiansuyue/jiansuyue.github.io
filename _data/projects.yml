@@ -1,0 +1,23 @@
+- name: This Website
+  link: https://github.com/sanamorii/sanamorii.github.io
+  summary: "You're looking at it :) "
+  tags: ["HTML", "CSS", "SCSS", "JavaScript", "Jekyll"]
+  writeup: /journal/hello-world/
+
+- name: Citrus Engine
+  link: https://github.com/sanamorii/citrus
+  summary: "A low level game engine built using C, SDL2, and OpenGL. "
+  tags: ["C/C++", "SDL2", "OpenGL", "Windows", "Linux"]
+  writeup: null
+
+- name: Filerize
+  link: /
+  summary: "An intelligent file sorter powered by artificial intelligence. Made within 24 hours at HackNotts 23' with a team of four and won second runner up."
+  tags: ["Python", "HTML", "CSS", "Javascript", "GPT3" ]
+  writeup: https://devpost.com/software/filerize
+
+- name: Bridge
+  link: https://github.com/jcbsm/bridge
+  summary: "A minecraft discord bot which bridges the two platforms together and provides functionality such as whitelisting, chat relay, and displaying of ingame stats. The project originally started out as a Python Bot which I had used for a personal minecraft server. Later it was remade as a PaperMC plugin after a coursemate wanted to help with development."
+  tags: ["Java17", "Gradle", "PaperMC", "Spigot", "SQLite"]
+  writeup: null

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="projects">
+    {% for project in site.data.projects %}
+    <div class="entry">
+        <h4>{{project.name}}</h4>
+        <small>{{ project.tags | array_to_sentence_string: '' }}</small><br>
+        <p>{{project.summary}}</p>
+        [ <a href="{{project.link}}">View on GitHub</a>{% if project.writeup %} | <a
+            href="{{project.writeup}}">Writeup</a>{% endif %} ]
+    </div>
+    {% endfor %}
+</div>
+<div class="projects-summary">
+    {{content}}
+</div>
