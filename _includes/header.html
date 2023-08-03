@@ -1,9 +1,12 @@
 <div class="header bar">
-    <h4 class="logo">sanamorii</h4>
+    <h4 class="logo">{% if page.is_post %} journal {% else %} {{page.title}} {% endif %}</h4>
+
+    {% if page.title != "Qiang Cai" %} 
     <span class="links">
         {% for item in site.data.navigation %}
         <a href="{{ item.link }}">{{ item.name }}</a>
         {% endfor %}
     </span>
+    {%endif%}
     <hr>
 </div>
