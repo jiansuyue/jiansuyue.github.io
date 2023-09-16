@@ -144,7 +144,9 @@ For some work laptops, I would recommend looking at the following.
 3. [**HP Envy**](https://www.hp.com/gb-en/shop/list.aspx?fc_sb_envy=1&sel=ntb)
 4. [**HP Pavilion Aero**](https://www.hp.com/gb-en/laptops/pavilion/pavilion-aero-13-laptop.html)  
 4. [**HP Pavilion**](https://www.hp.com/gb-en/shop/list.aspx?fc_sb_pavilion=1&sel=ntb)  
-5. [**ThinkPad E14 Gen 5**](https://www.lenovo.com/gb/en/c/laptops/thinkpad/thinkpade/)  
+5. [**ThinkPad E14 Gen 5**](https://www.lenovo.com/gb/en/c/laptops/thinkpad/thinkpade/) 
+5. [**ThinkPad L14 Gen 5**](https://www.lenovo.com/gb/en/c/laptops/thinkpad/thinkpade/) 
+5. [**Lenovo IdeaPad**](https://www.lenovo.com/gb/en/c/laptops/ideapad/)
 6. [**Acer Aspire**](https://www.acer.com/gb-en/laptops/aspire)
 
 
