@@ -8,7 +8,7 @@ layout: default
         <h4>{{project.name}}</h4>
         <small>{{ project.tags | array_to_sentence_string: '' }}</small><br>
         <p>{{project.summary}}</p>
-        [ <a href="{{project.link}}">View on GitHub</a>{% if project.writeup %} | <a
+        <a href="{{project.link}}">View on GitHub</a>{% if project.writeup %} | <a
             href="{{project.writeup}}">Writeup</a>{% endif %} ]
     </div>
     {% endfor %}

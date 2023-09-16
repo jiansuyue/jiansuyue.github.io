@@ -1,5 +1,16 @@
 ---
-layout: journal
+layout: default
 title: journal
 permalink: /journal/
 ---
+
+<div class="journal">
+    <ul>
+        {% for post in site.posts %}
+        <li><a href="{{ post.url }}">{{post.title}}
+                <em><small>{{post.date | date_to_string}}</small></em>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
