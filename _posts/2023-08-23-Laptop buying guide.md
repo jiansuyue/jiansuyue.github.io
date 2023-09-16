@@ -10,7 +10,7 @@ Hi, welcome and congrats on your results.
 
 Many people will say that you should get a laptop for university. Whilst it is heavily recommended, **it isn't strictly necessary.** For the University of Nottingham's Computer Science, it is possible to go through your entire course without one as the department offers facilities where you can do your coursework; such as computer labs and servers.
 
-The reason why people will heavily recommend one is the convenience that they can bring. Obviously, having a portable device that you can keep/write your notes on and do your coursework with can be extremely helpful wherever you are. Be it at home, outside, in a cafe, library, etc. Another 
+The reason why people will heavily recommend one is the convenience that they can bring. Obviously, having a portable device that you can keep/write your notes on and do your coursework with can be extremely helpful wherever you are. Be it at home, outside, in a cafe, library, etc. Another reason is that you are able to configure the laptop to suit your needs, whether it be accessibility or productivity related.
 
 As I expect there to be a lot of questions about them, I've put together a somewhat detailed guide as to what to look for in a laptop, what you should avoid, what you will need in order to the course, and some laptop recommendations.
 
@@ -137,49 +137,16 @@ Note: this isn't an exhaustive list. There will be some good laptops that I will
 ### Work Laptops
 For some work laptops, I would recommend looking at the following.  
 
-1. [**Apple MacBook Air/Pro**](https://www.apple.com/uk-edu/shop/back-to-school)
-    <!-- - A really good all rounder that is also extremely capable for CS.
-    - Extremely good battery life - can last up to 16 hours.
-    - Small (13.3") and lightweight (1.2kg) but extremely powerful. (Base MBA config - will be different with for other models/configs.)
-    - Screen quality is one of the best (2K Retina Display).
-    - Not upgradeable. Like at all. You're better off configuring it with the specs you think you may need.
-    - Can also be extremely pricey - starting from £899 (MBA 13" 8GB RAM 256GB storage w/ student discounts). -->
-2. [**Dell XPS**](https://www.dell.com/en-uk/shop/laptops/sf/xps-laptops)
-    <!-- - A windows alternative to the MacBook if you prefer windows.
-    - Not as great battery life compared to the MBA - can last up to 13 hours (51Wh).
-    - Somewhat upgradable (Single NVMe slot but no upgradable memory).
-    - Screen quality is great (16:10 ratio, 100% sRGB, 500 nits, OLED panel).
-    - Just as pricey as the MacBooks - starting from £1079 (not including student discounts.) -->
-3. [**Lenovo Yoga**](https://www.lenovo.com/gb/en/yoga/?orgRef=https%253A%252F%252Fwww.google.com%252F)
-    <!-- - A great 2in1 option if you're wanting to be able to take handwritten notes.
-    - Starts from £700 (can be cheaper w/ student discount from Lenovo's site) -->
-3. [**HP Spectre x360**](https://www.hp.com/gb-en/shop/list.aspx?fc_sb_spectre=1&sel=ntb)
-    <!-- - Another 2in1 option - A few coursemates I know use this laptop and personally said it worked well for them.
-    - More expensive - starting from £1299 -->
+1. [**Apple MacBook Air/Pro**](https://www.apple.com/uk-edu/shop/back-to-school)  
+2. [**Dell XPS**](https://www.dell.com/en-uk/shop/laptops/sf/xps-laptops)  
+3. [**Lenovo Yoga**](https://www.lenovo.com/gb/en/yoga/)  
+3. [**HP Spectre x360**](https://www.hp.com/gb-en/shop/list.aspx?fc_sb_spectre=1&sel=ntb)  
 3. [**HP Envy**](https://www.hp.com/gb-en/shop/list.aspx?fc_sb_envy=1&sel=ntb)
-    <!-- - something something -->
-4. [**HP Pavilion Aero**](https://www.hp.com/gb-en/laptops/pavilion/pavilion-aero-13-laptop.html)
-    <!-- - The more budget-friendly cousin to the HP Envy
-    - Small (13.3") and light (0.9kg) but also powerful (Ryzen 5).
-    - Display is extremely good for the price (16:10 IPS 100%sRGB 500nits).
-    - Up to 9-10 hours of battery life according to reviews (43Wh).
-    - Somewhat upgradable (Single NVMe slot but no upgradable memory). -->
-4. [**HP Pavilion**](https://www.hp.com/gb-en/shop/list.aspx?fc_sb_pavilion=1&sel=ntb)
-    <!-- - The even more budget-friendly version of the Aero - but heavier
-    - Small (13.3") and light (0.9kg) but also powerful (Ryzen 5).
-    - Display is extremely good for the price (16:10 IPS 100%sRGB 500nits).
-    - Up to 9-10 hours of battery life according to reviews (43Wh).
-    - Somewhat upgradable (Single NVMe slot but no upgradable memory). -->
-5. [**ThinkPad E14 Gen 5**](https://www.lenovo.com/gb/en/c/laptops/thinkpad/thinkpade/)
-    <!-- - The Gen 4 is my daily driver and has personally proven me well. Gen 5 has some direct upgrades over the Gen 4 - 16:10 screen, next generation CPU, thunderbolt support for AMD, etc.
-    - Decently sized (14") and somewhat lightweight (1.5kg).
-    - Screen quality is somewhat left to be desired, colour quality is subpar (60%~ sRBG) but extremely bright (400nits). 
-    - Battery life lasts around 12-13 hours (w/ the 57Wh battery. The 45Wh config will have lower battery life.)
-    - Priced around £540 to £1000 dependant on the configuration you get.
-    - Somewhat upgradable (Single NVMe slot w/ one available memory slot).
-    - Configurable on lenovo's website. If you want to get it for cheaper, buy it without the operating system, it will save you an extra £60. -->
+4. [**HP Pavilion Aero**](https://www.hp.com/gb-en/laptops/pavilion/pavilion-aero-13-laptop.html)  
+4. [**HP Pavilion**](https://www.hp.com/gb-en/shop/list.aspx?fc_sb_pavilion=1&sel=ntb)  
+5. [**ThinkPad E14 Gen 5**](https://www.lenovo.com/gb/en/c/laptops/thinkpad/thinkpade/)  
 6. [**Acer Aspire**](https://www.acer.com/gb-en/laptops/aspire)
-    <!-- - The budget option that is not crap. -->
+
 
 ### Gaming Laptops
 Again, I'd heavily recommend against getting a gaming laptop for reasons stated above. However if you're deadset on getting one, here's some that I would recommend.
