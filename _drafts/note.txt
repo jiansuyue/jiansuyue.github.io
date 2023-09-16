@@ -1,0 +1,36 @@
+        <!-- - A really good all rounder that is also extremely capable for CS.
+    - Extremely good battery life - can last up to 16 hours.
+    - Small (13.3") and lightweight (1.2kg) but extremely powerful. (Base MBA config - will be different with for other models/configs.)
+    - Screen quality is one of the best (2K Retina Display).
+    - Not upgradeable. Like at all. You're better off configuring it with the specs you think you may need.
+    - Can also be extremely pricey - starting from £899 (MBA 13" 8GB RAM 256GB storage w/ student discounts). -->
+        <!-- - A windows alternative to the MacBook if you prefer windows.
+    - Not as great battery life compared to the MBA - can last up to 13 hours (51Wh).
+    - Somewhat upgradable (Single NVMe slot but no upgradable memory).
+    - Screen quality is great (16:10 ratio, 100% sRGB, 500 nits, OLED panel).
+    - Just as pricey as the MacBooks - starting from £1079 (not including student discounts.) -->
+    <!-- - A great 2in1 option if you're wanting to be able to take handwritten notes.
+    - Starts from £700 (can be cheaper w/ student discount from Lenovo's site) -->
+    <!-- - Another 2in1 option - A few coursemates I know use this laptop and personally said it worked well for them.
+    - More expensive - starting from £1299 -->
+    <!-- - something something -->
+        <!-- - The more budget-friendly cousin to the HP Envy
+    - Small (13.3") and light (0.9kg) but also powerful (Ryzen 5).
+    - Display is extremely good for the price (16:10 IPS 100%sRGB 500nits).
+    - Up to 9-10 hours of battery life according to reviews (43Wh).
+    - Somewhat upgradable (Single NVMe slot but no upgradable memory). -->
+    <!-- - The even more budget-friendly version of the Aero - but heavier
+    - Small (13.3") and light (0.9kg) but also powerful (Ryzen 5).
+    - Display is extremely good for the price (16:10 IPS 100%sRGB 500nits).
+    - Up to 9-10 hours of battery life according to reviews (43Wh).
+    - Somewhat upgradable (Single NVMe slot but no upgradable memory). -->
+
+        <!-- - The Gen 4 is my daily driver and has personally proven me well. Gen 5 has some direct upgrades over the Gen 4 - 16:10 screen, next generation CPU, thunderbolt support for AMD, etc.
+    - Decently sized (14") and somewhat lightweight (1.5kg).
+    - Screen quality is somewhat left to be desired, colour quality is subpar (60%~ sRBG) but extremely bright (400nits). 
+    - Battery life lasts around 12-13 hours (w/ the 57Wh battery. The 45Wh config will have lower battery life.)
+    - Priced around £540 to £1000 dependant on the configuration you get.
+    - Somewhat upgradable (Single NVMe slot w/ one available memory slot).
+    - Configurable on lenovo's website. If you want to get it for cheaper, buy it without the operating system, it will save you an extra £60. -->
+    
+    <!-- - The budget option that is not crap. -->
